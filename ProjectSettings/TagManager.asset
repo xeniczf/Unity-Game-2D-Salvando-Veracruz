@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - suelo
+  - Suelo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2958107059
+    locked: 0
+  - name: Plataform
+    uniqueID: 36553169
+    locked: 0
+  - name: player
+    uniqueID: 2821426915
+    locked: 0
+  - name: starcoin
+    uniqueID: 3494831297
+    locked: 0
+  - name: score
+    uniqueID: 2661034977
+    locked: 0
+  - name: botonreiniciar
+    uniqueID: 2854992915
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
